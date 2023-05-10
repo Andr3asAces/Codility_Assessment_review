@@ -9,6 +9,10 @@ The take home asssessment consisted of two tasks.
 
 I share the solutions from the test to the best of my knowledge as well as tips and tricks of what to look out.
 
+I have also included test data in both tasks. 
+
+For SQL I have both a python sqlite and an sql script you can run. (You will need to have created a database for sql script.)
+
 Thanks,
 
 Andreas
